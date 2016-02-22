@@ -1,0 +1,2 @@
+[2016-02-17 11:16:10.665] [ERROR] - - 连接 reids 数据库(redisDb/192.168.0.103:6379)错误(Error: Redis connection to 192.168.0.103:6379 failed - connect ETIMEDOUT 192.168.0.103:6379)，尝试重连
+[2016-02-17 11:16:10.676] [ERROR] - - 连接 reids 数据库(redisDb2/192.168.0.103:6379)错误(Error: Redis connection to 192.168.0.103:6379 failed - connect ETIMEDOUT 192.168.0.103:6379)，尝试重连
